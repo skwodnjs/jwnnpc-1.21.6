@@ -1,0 +1,13 @@
+{
+  "itemGroup.jwnnpc": "Example Mod Tab",
+  "block.jwnnpc.example_block": "Example Block",
+  "item.jwnnpc.example_item": "Example Item",
+
+  "jwnnpc.configuration.title": "JWNNPC Configs",
+  "jwnnpc.configuration.section.jwnnpc.common.toml": "JWNNPC Configs",
+  "jwnnpc.configuration.section.jwnnpc.common.toml.title": "JWNNPC Configs",
+  "jwnnpc.configuration.items": "Item List",
+  "jwnnpc.configuration.logDirtBlock": "Log Dirt Block",
+  "jwnnpc.configuration.magicNumberIntroduction": "Magic Number Text",
+  "jwnnpc.configuration.magicNumber": "Magic Number"
+}
