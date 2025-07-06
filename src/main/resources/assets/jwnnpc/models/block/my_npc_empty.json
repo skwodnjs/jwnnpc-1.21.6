@@ -1,0 +1,7 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "jwnnpc:block/arab_merchant"
+	},
+	"elements": []
+}

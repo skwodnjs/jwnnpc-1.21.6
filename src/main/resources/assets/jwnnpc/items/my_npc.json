@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "jwnnpc:block/my_npc"
+    "model": "jwnnpc:block/my_npc_full"
   }
 }

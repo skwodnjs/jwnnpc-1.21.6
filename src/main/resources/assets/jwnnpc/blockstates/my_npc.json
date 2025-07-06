@@ -1,19 +1,13 @@
 {
   "variants": {
-    "facing=north": {
-      "model": "jwnnpc:block/my_npc"
-    },
-    "facing=south": {
-      "model": "jwnnpc:block/my_npc",
-      "y": 180
-    },
-    "facing=east": {
-      "model": "jwnnpc:block/my_npc",
-      "y": 90
-    },
-    "facing=west": {
-      "model": "jwnnpc:block/my_npc",
-      "y": 270
-    }
+    "facing=north,half=lower": { "model": "jwnnpc:block/my_npc_full" },
+    "facing=south,half=lower": { "model": "jwnnpc:block/my_npc_full", "y": 180 },
+    "facing=east,half=lower":  { "model": "jwnnpc:block/my_npc_full", "y": 90 },
+    "facing=west,half=lower":  { "model": "jwnnpc:block/my_npc_full", "y": 270 },
+
+    "facing=north,half=upper": { "model": "jwnnpc:block/my_npc_empty" },
+    "facing=south,half=upper": { "model": "jwnnpc:block/my_npc_empty", "y": 180 },
+    "facing=east,half=upper":  { "model": "jwnnpc:block/my_npc_empty", "y": 90 },
+    "facing=west,half=upper":  { "model": "jwnnpc:block/my_npc_empty", "y": 270 }
   }
 }
