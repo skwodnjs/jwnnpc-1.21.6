@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "jwnnpc:block/my_npc"
+    },
+    "facing=south": {
+      "model": "jwnnpc:block/my_npc",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "jwnnpc:block/my_npc",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "jwnnpc:block/my_npc",
+      "y": 270
+    }
+  }
+}
